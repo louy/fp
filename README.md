@@ -1,6 +1,7 @@
 # Plugin Name #
 **Contributors:** louyx  
 Author URL: http://l0uy.com/
+
 **Tags:** Facebook, oauth, login, share, likebutton, comment, connect  
 **Requires at least:** 3.3  
 **Tested up to:** 4.1  
@@ -17,8 +18,6 @@ FacePress, is a plugin that allows you to integrate Facebook and your blog very 
 * Allow your visitors to comment using their Facebook ids
 * Adds a like button to your posts, so your visitors can share your content.
 * Allow your blog users to sign in with their Facebook ids. one click signin!
-
-## Changelog ##
 
 ## Changelog ##
 
