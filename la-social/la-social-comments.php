@@ -148,7 +148,7 @@ class LA_Social_Comments extends LA_Social_Module {
 		if( $userid ) {
 			$avatar = $this->parent->get_avatar( $userid );
 
-			return apply_filters( $this->prefix() . '_comment_avatar', $avatar, $userid, $id_or_email );
+			return apply_filters( $this->prefix() . '_comment_avatar', $avatar, $userid, $id_or_email, $size, $default, $alt );
 		}
 
 		return $avatar;
